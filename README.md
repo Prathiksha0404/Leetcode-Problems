@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [3110-score-of-a-string](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3110-score-of-a-string) |
 ## Math
 |  |
 | ------- |
