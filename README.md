@@ -18,6 +18,7 @@
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
