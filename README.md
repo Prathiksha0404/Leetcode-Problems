@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [2413-smallest-even-multiple](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
