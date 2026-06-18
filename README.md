@@ -13,6 +13,7 @@
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2579-count-total-number-of-colored-cells](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2579-count-total-number-of-colored-cells) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
