@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
