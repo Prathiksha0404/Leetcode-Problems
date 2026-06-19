@@ -82,4 +82,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
