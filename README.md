@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1837-sum-of-digits-in-base-k) |
@@ -103,9 +104,14 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
