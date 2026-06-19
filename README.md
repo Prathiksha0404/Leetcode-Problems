@@ -12,6 +12,7 @@
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
