@@ -40,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -105,4 +107,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
