@@ -79,6 +79,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -124,4 +125,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
