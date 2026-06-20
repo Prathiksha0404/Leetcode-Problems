@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0412-fizz-buzz) |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0342-power-of-four) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
