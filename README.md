@@ -33,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -63,11 +64,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Geometry
 |  |
