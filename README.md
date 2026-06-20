@@ -32,6 +32,7 @@
 | [0001-two-sum](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -47,10 +48,12 @@
 | [0142-linked-list-cycle-ii](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Number Theory
 |  |
@@ -96,6 +99,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
 | ------- |
@@ -128,4 +132,20 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0155-min-stack) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
