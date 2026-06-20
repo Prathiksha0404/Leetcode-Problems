@@ -34,6 +34,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
