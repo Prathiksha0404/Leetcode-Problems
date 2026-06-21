@@ -33,6 +33,7 @@
 | [0001-two-sum](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -138,6 +139,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0342-power-of-four) |
 ## Stack
 |  |
