@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0412-fizz-buzz) |
@@ -167,4 +168,9 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
