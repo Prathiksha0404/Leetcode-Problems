@@ -32,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -100,6 +101,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
