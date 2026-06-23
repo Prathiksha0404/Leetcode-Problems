@@ -16,6 +16,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0412-fizz-buzz) |
@@ -41,6 +42,7 @@
 | [0088-merge-sorted-array](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -60,6 +62,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -112,6 +115,7 @@
 | [0088-merge-sorted-array](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Database
 |  |
@@ -151,6 +155,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0342-power-of-four) |
 ## Stack
 |  |
@@ -228,6 +233,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
