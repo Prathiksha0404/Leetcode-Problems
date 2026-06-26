@@ -17,6 +17,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0342-power-of-four) |
@@ -76,6 +77,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Graph Theory
@@ -90,6 +92,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
