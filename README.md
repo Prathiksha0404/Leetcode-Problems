@@ -10,6 +10,7 @@
 | [0058-length-of-last-word](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3110-score-of-a-string) |
 ## Math
@@ -53,6 +54,7 @@
 | [0867-transpose-matrix](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
