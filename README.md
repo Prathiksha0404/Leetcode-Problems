@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
@@ -224,6 +225,7 @@
 | [0101-symmetric-tree](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -233,6 +235,7 @@
 | [0100-same-tree](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -250,6 +253,7 @@
 | [0101-symmetric-tree](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
