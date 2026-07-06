@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -267,6 +268,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0268-missing-number) |
