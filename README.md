@@ -31,6 +31,7 @@
 | [1837-sum-of-digits-in-base-k](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2469-convert-the-temperature](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -91,6 +92,7 @@
 | [0258-add-digits](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 ## Graph Theory
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Sorting
 |  |
@@ -307,4 +310,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
