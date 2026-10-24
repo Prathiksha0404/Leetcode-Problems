@@ -41,6 +41,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [1952-three-divisors](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Graph Theory
 |  |
 | ------- |
