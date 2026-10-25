@@ -52,6 +52,7 @@
 | [0053-maximum-subarray](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -235,6 +236,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -326,4 +328,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
