@@ -160,6 +160,7 @@
 | [0197-rising-temperature](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0577-employee-bonus) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/0607-sales-person) |
 | [1729-find-followers-count](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1729-find-followers-count) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Prathiksha0404/Leetcode-Problems/tree/master/1978-employees-whose-manager-left-the-company) |
